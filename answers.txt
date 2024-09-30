@@ -9,3 +9,7 @@ Answer: One field it can be beneficial in, is the field of finance. Data science
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging is when you work with shared branches to preserve collaboration history. Rebasing is when you have personal branches that integrate into shared branches in order to keep history clean and linear. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: My git skills, and my understanding of data science.

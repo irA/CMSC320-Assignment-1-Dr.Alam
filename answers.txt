@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a useful cloud code interface to navigate and save code amongst collaborators. 
+

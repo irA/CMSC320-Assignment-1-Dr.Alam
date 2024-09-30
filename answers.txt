@@ -2,10 +2,10 @@ Q1: Why might be consider using git?
 
 Answer: Git is a useful cloud code interface to navigate and save code amongst collaborators. 
 
-<<<<<<< HEAD
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: One field it can be beneficial in, is the field of finance. Data science can be used to analyze transactions in order to prevent fraud.
 
-=======
->>>>>>> q1
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is when you work with shared branches to preserve collaboration history. Rebasing is when you have personal branches that integrate into shared branches in order to keep history clean and linear. 
